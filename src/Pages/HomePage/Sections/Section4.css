@@ -1,0 +1,45 @@
+.section4_container {
+    height: 200vh;
+    width: 100%;
+}
+
+.section4_content {
+    height: 30vh;
+    width: 100%;
+}
+
+.bg_sections {
+    width: 100%;
+}
+
+.part1 {
+    background-color: rgb(246, 251, 255);
+    position: relative;
+}
+
+.part1_top {
+    position: relative;
+}
+.part1_top  .bg_sections {
+    position: absolute;
+    top: -214px;
+    left: 0;
+}
+
+.part1_middle {
+    margin: 0;
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.part1_middle h2,
+p {
+    margin: 0;
+}
+
+.grow_together {
+    width: 64%;
+}

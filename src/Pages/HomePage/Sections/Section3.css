@@ -1,0 +1,32 @@
+.section3_container {
+    height: 66vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section3_content{
+    height: 70%;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.content1 h1 {
+    font-size: 5rem;
+    margin: 0;
+    color: rgb(1,43,49);
+}
+.content1 p{
+    color: rgb(124,134,143);
+    font-size: 1.3rem;
+}
+.content2 h1 {
+    font-size: 5rem;
+    margin: 0;
+    color: rgb(1,43,49);
+}
+.content2 p{
+    color: rgb(124,134,143);
+    font-size: 1.3rem;
+}

@@ -1,0 +1,48 @@
+.section1_container {
+    width: 100%;
+    height: 56vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section1_content {
+    height: 60%;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section1_content h1 {
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.para_width {
+    width: 50%;
+}
+
+.section1_content .para_width p {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin: 0;
+    color: rgb(56,78,76);
+}
+
+.section1_content button {
+    width: 30%;
+    height: 65px;
+    border-radius: 50px;
+    border: none;
+    background-color: rgb(253,83,192);
+    color: white;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-top: 38px;
+    cursor: pointer;
+    -webkit-box-shadow: 0px 3px 41px -19px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 3px 41px -19px rgba(0,0,0,0.75);
+    box-shadow: 0px 3px 41px -19px rgba(0,0,0,0.75);
+}
